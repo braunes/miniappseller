@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Футболка",
+        "description": "Хлопковая футболка с принтом",
+        "price": 19.99,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 2,
+        "name": "Джинсы",
+        "description": "Классические синие джинсы",
+        "price": 49.99,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 3,
+        "name": "Кроссовки",
+        "description": "Спортивные кроссовки для бега",
+        "price": 79.99,
+        "image": "https://via.placeholder.com/150"
+    }
+]
